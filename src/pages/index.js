@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Helmet from "react-helmet";
-import isAfter from "date-fns/is_after";
+import isAfter from "date-fns/isAfter";
 
 import Layout from "../components/Layout";
 import Map from "../components/Map";
